@@ -1,0 +1,1198 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "530640db-2c00-4651-a642-17068f6bd6a8",
+        "text": {
+          "ops": [
+            {
+              "insert": "📅 Calendario Campaña IC 2026–2027"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "16e612cf-3091-4f2d-81ff-d88ef8861c7d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🌞 JUL 2026 — Verano para aprender",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@mes001": "Captar primeros alumnos con cursos cortos y prácticos",
+              "@msg001": "Aprovecha el verano para aprender algo que cambie tu trabajo",
+              "@canal01": "Instagram, WhatsApp, Facebook, cartelería local",
+              "@mat001": "Cartel principal, posts x2, historia, WhatsApp x1"
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "5f4e6771-5b43-45a7-9942-f8e483821901",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Curso: Vacaciones Productivas IA y Ofimática (6–17 Jul)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "21db9a6f-d1e6-4d9a-b61c-139618932adb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Curso: Excel Básico para Administración (20–31 Jul)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "92619ea0-8dd4-48d0-b60f-28c290610d5a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "☀️ AGO 2026 — Formación práctica",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@mes001": "Captar autónomos y comercios locales",
+              "@msg001": "Crea contenido para tus redes en 2 semanas — sin conocimientos previos",
+              "@canal01": "Instagram, Facebook, WhatsApp, comercios locales",
+              "@mat001": "Post carrusel, reel corto, mensaje WhatsApp comercio"
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "2ee54895-7f02-42b4-b22a-608eb103a087",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Curso: Canva, Redes y Contenidos para Negocios Locales (3–14 Ago)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "1ca923d5-03ee-480e-982e-9a2199cb7dcb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🍂 SEP 2026 — Vuelta al curso",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@mes001": "Vuelta al aprendizaje — equipos de oficina y pequeños negocios",
+              "@msg001": "Organiza tu trabajo digital desde el primer día de curso",
+              "@canal01": "Email, WhatsApp, LinkedIn, Google Business",
+              "@mat001": "Ficha curso, email captación, post retorno"
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "f6da1c3e-9b36-4427-8682-a2644acb8b3a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Curso: Google Workspace y Organización Digital (7–18 Sep)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "49031699-e4f4-44c7-b720-e48d673428d1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Inicio: Administración Digital y Excel Profesional (21 Sep–16 Oct)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "083f76bb-ca0f-43f5-ab7a-1148b595b907",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🍁 OCT–NOV 2026 — Temporada de especialización",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@mes001": "Especialización profesional y captación para Premium",
+              "@msg001": "Formación seria para profesionales que quieren más. Con certificado.",
+              "@canal01": "Email, LinkedIn, contacto empresa, WhatsApp",
+              "@mat001": "Presentación empresas, fichas intermedios, post LinkedIn"
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "f42d93ee-6ec3-4a1e-a4fa-3d68c252aadb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Inicio: IA Aplicada a la Empresa PREMIUM (5 Oct–18 Dic)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cb6c4c04-44a0-4b97-b160-13b05b51bdfd",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Inicio: Creación de Empresa y Plan de Negocio (19 Oct–20 Nov)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "92c0e52a-15da-45b8-973a-753d6c74ba5b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "❄️ NOV–DIC 2026 — Marketing y cierre de año",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@mes001": "Captar negocios locales antes de cierre de año",
+              "@msg001": "Tu negocio necesita visibilidad online. Empieza hoy.",
+              "@canal01": "Instagram, Facebook, Google Business, email",
+              "@mat001": "Post marketing, ficha curso, CTA urgencia fin de año"
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "e5193331-2b01-46e0-aeba-fd265fce94d2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Inicio: Marketing Digital SEO SEM GEO (23 Nov–18 Dic)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "2af5ac5a-f4ab-47c3-aa46-6af3d2c4d630",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎯 ENE–MAR 2027 — Año nuevo profesional",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@mes001": "Nuevos propósitos — emprendedores y personas que quieren cambiar",
+              "@msg001": "2027 es el año de tu crecimiento profesional. Empiézalo con formación.",
+              "@canal01": "Instagram, WhatsApp, email, contacto empresa",
+              "@mat001": "Pack premium, fichas intermedios, email enero"
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "e77aeb4d-758d-49c0-84b7-570b784a318b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Inicio: Dirección y Gestión Empresarial PREMIUM (11 Ene–26 Mar)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "dce3ee38-0288-4133-bf05-99cc1996333e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Inicio: Finanzas, Presupuestos y Control de Gestión (18 Ene–12 Feb)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "865c5540-daca-4499-bd5a-0ebc854f2538",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🌸 ABR–JUN 2027 — Primavera digital y cierre de curso",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@mes001": "Automatización y perfiles avanzados — cierre de año fuerte",
+              "@msg001": "Cierra el año siendo el profesional que quieres ser",
+              "@canal01": "Email, LinkedIn, WhatsApp empresa, presentaciones",
+              "@mat001": "Fichas premium, email campaña cierre, posts LinkedIn"
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "c66a0c86-41cf-47e4-9842-818aad94fc7e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Inicio: Transformación Digital y Automatización PREMIUM (1 Feb–30 Abr)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b31d1caa-c1b4-4263-be9f-6f95b0845868",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Inicio: Liderazgo y Proyecto Final PREMIUM (3 May–25 Jun)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@mes001": {
+            "id": "/attributes/@mes001",
+            "fieldPath": "/attributes/@mes001",
+            "rank": "z"
+          },
+          "/attributes/@msg001": {
+            "id": "/attributes/@msg001",
+            "fieldPath": "/attributes/@msg001",
+            "rank": "zV"
+          },
+          "/attributes/@canal01": {
+            "id": "/attributes/@canal01",
+            "fieldPath": "/attributes/@canal01",
+            "rank": "zk"
+          },
+          "/attributes/@mat001": {
+            "id": "/attributes/@mat001",
+            "fieldPath": "/attributes/@mat001",
+            "rank": "zs"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@mes001": {
+            "id": "/attributes/@mes001",
+            "fieldPath": "/attributes/@mes001",
+            "rank": "z"
+          },
+          "/attributes/@msg001": {
+            "id": "/attributes/@msg001",
+            "fieldPath": "/attributes/@msg001",
+            "rank": "zV"
+          },
+          "/attributes/@canal01": {
+            "id": "/attributes/@canal01",
+            "fieldPath": "/attributes/@canal01",
+            "rank": "zk"
+          },
+          "/attributes/@mat001": {
+            "id": "/attributes/@mat001",
+            "fieldPath": "/attributes/@mat001",
+            "rank": "zs"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@mes001": {
+            "id": "/attributes/@mes001",
+            "fieldPath": "/attributes/@mes001",
+            "rank": "z"
+          },
+          "/attributes/@msg001": {
+            "id": "/attributes/@msg001",
+            "fieldPath": "/attributes/@msg001",
+            "rank": "zV"
+          },
+          "/attributes/@canal01": {
+            "id": "/attributes/@canal01",
+            "fieldPath": "/attributes/@canal01",
+            "rank": "zk"
+          },
+          "/attributes/@mat001": {
+            "id": "/attributes/@mat001",
+            "fieldPath": "/attributes/@mat001",
+            "rank": "zs"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@mes001": {
+            "id": "/attributes/@mes001",
+            "fieldPath": "/attributes/@mes001",
+            "rank": "z"
+          },
+          "/attributes/@msg001": {
+            "id": "/attributes/@msg001",
+            "fieldPath": "/attributes/@msg001",
+            "rank": "zV"
+          },
+          "/attributes/@canal01": {
+            "id": "/attributes/@canal01",
+            "fieldPath": "/attributes/@canal01",
+            "rank": "zk"
+          },
+          "/attributes/@mat001": {
+            "id": "/attributes/@mat001",
+            "fieldPath": "/attributes/@mat001",
+            "rank": "zs"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@mes001": {
+            "id": "/attributes/@mes001",
+            "fieldPath": "/attributes/@mes001",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@msg001": {
+            "id": "/attributes/@msg001",
+            "fieldPath": "/attributes/@msg001",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@canal01": {
+            "id": "/attributes/@canal01",
+            "fieldPath": "/attributes/@canal01",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@mat001": {
+            "id": "/attributes/@mat001",
+            "fieldPath": "/attributes/@mat001",
+            "rank": "zs",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@mes001": {
+            "id": "/attributes/@mes001",
+            "fieldPath": "/attributes/@mes001",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@msg001": {
+            "id": "/attributes/@msg001",
+            "fieldPath": "/attributes/@msg001",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@canal01": {
+            "id": "/attributes/@canal01",
+            "fieldPath": "/attributes/@canal01",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@mat001": {
+            "id": "/attributes/@mat001",
+            "fieldPath": "/attributes/@mat001",
+            "rank": "zs",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@mes001": {
+        "type": "string",
+        "displayName": "Objetivo comercial"
+      },
+      "@msg001": {
+        "type": "string",
+        "displayName": "Mensaje principal"
+      },
+      "@canal01": {
+        "type": "string",
+        "displayName": "Canal recomendado"
+      },
+      "@mat001": {
+        "type": "string",
+        "displayName": "Materiales necesarios"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📉"
+    }
+  }
+}

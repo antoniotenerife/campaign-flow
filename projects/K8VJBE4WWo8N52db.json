@@ -1,0 +1,2061 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "be654855-43b3-4f67-b2a9-7b17bfb804c5",
+        "text": {
+          "ops": [
+            {
+              "insert": "📣 Fichas Comerciales por Curso – IC 2026–2027"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "4ee13a16-88ed-4e4a-8db9-ba077ae1874d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚡ CURSOS EXPRESS — Cursos Gancho",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "7ec10e93-d0df-4eed-b8bc-9f71ce6da5e2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1. Vacaciones Productivas: IA y Ofimática",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_express"
+                  },
+                  "@msg_f": "Aprende IA y ofimática en 2 semanas. Gratis o bonificable. Plazas limitadas.",
+                  "@cta_f": "📲 Apúntate ahora — plazas limitadas",
+                  "@wa_f": "Hola 👋 ¿Quieres aprender a usar IA en tu trabajo este verano? Tenemos el curso perfecto: 12h, práctico y con resultado desde el día 1. Te cuento más info 👉"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "238e28cd-cbd0-4eec-9519-f9eda81fed92",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Desempleados, estudiantes, profesionales que se quieren actualizar rápido",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "dfea1c58-ea24-44a4-8572-c6d7df024edb",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Problema que resuelve: No sé usar IA ni herramientas digitales básicas y me quedo atrás",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "1c570ef6-1d53-47c2-bd6a-74235c572c23",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Kit de productividad con IA listo para aplicar desde el primer día",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "cb348901-53b2-4b49-b3a3-0d79be43d498",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "TAREA: Crear post con antes/después de usar IA en el trabajo",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "bb9c3193-99d8-438f-a5f2-92edde18916c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "TAREA: Publicar reel: '3 cosas que puedes hacer con IA hoy mismo'",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e9a0217c-c0c1-429a-98ab-ef6b2ce77345",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "TAREA: Enviar WhatsApp a lista de contactos con mensaje gancho",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "14752010-e9e7-4a5d-9332-1fcf038c11f1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2. Excel Básico para Administración y Control",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_express"
+                  },
+                  "@msg_f": "Controla tu trabajo con Excel desde el primer día. 16h prácticas. Resultado garantizado.",
+                  "@cta_f": "📊 Reserva tu plaza — empieza el 20 de julio",
+                  "@wa_f": "Hola! ¿Usas Excel pero no lo controlas del todo? En 2 semanas aprenderás a gestionar datos, presupuestos y control de gastos con plantilla incluida 📋 ¿Te interesa?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "3a962b16-3044-46ea-be11-b663a6a28595",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Administrativos, oficinas, personas que buscan empleo con perfil admin",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ad13f6f9-10c0-4724-85ec-bd02ea63d31f",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Problema: Uso Excel de forma básica y me exigen más en el trabajo o en ofertas",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "28bfb191-c338-45de-88ec-d3f58b6e7fb9",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Plantilla de control administrativo lista para usar en empresa",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "31db8b9a-219f-4194-b74c-d9f580e467b8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3. Canva, Redes Sociales y Contenidos para Negocios Locales",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_express"
+                  },
+                  "@msg_f": "Crea tu contenido profesional para redes en 2 semanas. Con pack de 10 publicaciones incluido.",
+                  "@cta_f": "🎨 Empieza a crear — plazas limitadas agosto",
+                  "@wa_f": "¿Tu negocio necesita más presencia en redes? En 12h aprenderás a diseñar publicaciones, crear historias y planificar contenido con Canva. Pack de 10 posts incluido 🎁 ¿Quieres info?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "07493d3d-4969-42ef-9451-e7a1b1957289",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Autónomos, comercios, pequeños negocios locales, emprendedores",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e0a611a3-aba7-4c86-b224-6c0dd4d61051",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Problema: No publico en redes o lo hago mal y no consigo clientes",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d53d5d56-06e7-47a5-b376-594a6c821c66",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Pack de 10 publicaciones adaptadas a tu negocio listas para publicar",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "688675ea-bdd0-4c9c-acd6-ee3c8ecaf3eb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "4. Google Workspace y Organización Digital",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_express"
+                  },
+                  "@msg_f": "Organiza tu equipo y tu trabajo digital desde el primer día. Gmail, Drive, Calendar en 2 semanas.",
+                  "@cta_f": "📅 Reserva tu plaza — septiembre",
+                  "@wa_f": "¿Empezar el curso con todo organizado? Aprende a usar Gmail, Drive y Calendar como un profesional. 12 horas, resultado inmediato. ¿Te cuento más?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "83f55ad8-6820-4490-9e23-93385666ee06",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Equipos de oficina, pequeños negocios, alumnado que empieza el curso",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c5a3d0a4-29be-411a-abff-0f10959d56ba",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Sistema de organización semanal funcionando desde el primer día",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "75b91ba8-0357-4ebe-b602-89149e5b159a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "📈 CURSOS INTERMEDIOS — Especialización",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "893b303f-cc07-4e3a-9198-f5153f96eae4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "6. Administración Digital y Excel Profesional",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_inter"
+                  },
+                  "@msg_f": "Domina la gestión digital y Excel avanzado. 40h con certificado. Para profesionales que quieren más.",
+                  "@cta_f": "📋 Solicita información — empieza 21 Sep",
+                  "@wa_f": "¿Trabajas en administración y quieres subir de nivel? Tenemos un curso de 40h con Excel avanzado, gestión documental y herramientas digitales. Con certificado. ¿Te interesa?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "81dd4597-428d-4038-93b0-1ea369d59d58",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Auxiliares admin, estudiantes, personal de oficina que quiere ascender",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "cc3cdbfb-078e-47d1-a68d-7ab7998896a3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Libro Excel de gestión de empresa + dominio de herramientas digitales",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "5930bbf1-9513-4b90-8f0e-9662b43449c9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "7. Creación de Empresa y Plan de Negocio con IA",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_inter"
+                  },
+                  "@msg_f": "Valida tu idea de negocio y crea tu plan con IA. 50h prácticas para emprendedores reales.",
+                  "@cta_f": "🚀 Empieza a construir tu negocio — 19 oct",
+                  "@wa_f": "¿Tienes una idea de negocio pero no sabes por dónde empezar? En 50h aprenderás a validarla, hacer tu DAFO, plan financiero y presentación. Con IA incluida 🤖 ¿Quieres info?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f23360a5-ea48-42fd-bd9b-9ee656e31e76",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Emprendedores, autónomos, personas que quieren montar su negocio",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "28357298-f18c-4fa5-aa87-762b486f35ec",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Plan de negocio básico presentado y validado",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "3b5ec3f4-61f5-457a-b1cf-0b7d01f765c1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "8. Marketing Digital, SEO, SEM, GEO y Contenidos",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_inter"
+                  },
+                  "@msg_f": "Aprende a captar clientes online con estrategia real. SEO, Google Ads, contenido e IA para tu negocio.",
+                  "@cta_f": "🔍 Apúntate — empieza 23 nov",
+                  "@wa_f": "¿Tu negocio no aparece en Google? Con este curso de 40h aprenderás SEO, Google Ads, redes y a crear contenido con IA. Resultados desde la semana 1. ¿Te cuento más?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "c36d5d9d-1b17-4a3b-8b0c-bb3fd14e2b56",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Negocios locales, comercios, academias, emprendedores digitales",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "5aafb7b1-49a6-4f01-b21d-b1fdbb80a682",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Mini plan de medios y contenidos listo para ejecutar",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "9db7a395-b0c5-40d0-b55f-9bd5cf17cca8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "9. Finanzas, Presupuestos y Control de Gestión",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_inter"
+                  },
+                  "@msg_f": "Controla los números de tu negocio. Finanzas claras para pymes y autónomos. Sin ser economista.",
+                  "@cta_f": "💶 Apúntate — enero 2027",
+                  "@wa_f": "¿Sabes cuánto ganas de verdad en tu negocio? En este curso aprenderás a controlar gastos, márgenes y tesorería con herramientas prácticas. 40h con certificado. ¿Quieres info?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "79e933d2-b644-4047-be6d-6cd37edd590c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Autónomos, responsables administrativos, pequeños empresarios",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "8cb08330-3646-4778-bf15-4615c4bfd6ce",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Cuadro de control económico funcional para tu negocio",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "723eee18-bb5f-4a3a-aec4-91a4e3b73df4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "10. Gestión de Clientes, Ventas y Experiencia de Compra",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_inter"
+                  },
+                  "@msg_f": "Vende más y mejor. Aprende a gestionar clientes, atender bien y cerrar ventas con método.",
+                  "@cta_f": "🤝 Inscríbete — febrero 2027",
+                  "@wa_f": "¿Quieres mejorar tus ventas y la atención al cliente? En 36h aprenderás técnicas de venta, CRM básico y cómo fidelizar clientes. Perfecto para comerciales y negocios. ¿Te interesa?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e63d0bb9-3057-4d84-9e55-07b1925d1104",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Equipos comerciales, recepción, atención al público, negocios con ventas",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "76071ebd-7c42-4684-bcb6-5b86e32be8b2",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Protocolo de ventas y seguimiento de clientes implementado",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "321b589d-38ac-403f-a555-0bd6282b31c2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⭐ CURSOS PREMIUM — Alto valor",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "29d1ae7f-31cf-478b-8ff1-75798796b9ed",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "11. IA Aplicada a la Empresa: productividad, informes y automatización",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_prem"
+                  },
+                  "@msg_f": "Implanta IA en tu empresa de forma real. 80h para equipos y profesionales que quieren resultados tangibles.",
+                  "@cta_f": "🤖 Solicita plaza — octubre (grupos reducidos)",
+                  "@wa_f": "¿Quieres que tu empresa use IA de verdad, no solo ChatGPT? Tenemos un itinerario de 80h para implantar IA por departamentos. Para equipos y profesionales. ¿Hablamos?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "77c3d968-a9f7-4d10-9fbc-fe4172d0a853",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Profesionales, docentes, equipos administrativos y empresas",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "dea70b3d-56a4-4b75-b5af-749d1754c6ee",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Proyecto de implantación de IA por área presentado",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "8b447380-a854-45e3-a317-c45f44370d91",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "12. Dirección y Gestión Empresarial para Pymes",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_prem"
+                  },
+                  "@msg_f": "Aprende a dirigir tu empresa con estrategia, indicadores y planificación real. 90h para propietarios y mandos.",
+                  "@cta_f": "📊 Reserva tu plaza — enero 2027",
+                  "@wa_f": "¿Llevas tu negocio pero sientes que podrías hacerlo mejor? En 90h aprenderás a planificar, organizar y medir tu empresa como un director profesional. ¿Te interesa conocer más?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "bad79cb6-704e-43dc-afb9-aca0a175fd6f",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Autónomos, mandos intermedios, propietarios de pyme",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "808c7764-5e4b-4e67-971f-6851f0e260f3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Plan de gestión anual para tu empresa",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "9db82576-d776-4585-bef9-8d205acd8514",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "13. Transformación Digital y Automatización de Procesos",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_prem"
+                  },
+                  "@msg_f": "Digitaliza y automatiza los procesos de tu empresa. 100h para equipos que quieren transformarse de verdad.",
+                  "@cta_f": "🔄 Consulta disponibilidad — feb 2027",
+                  "@wa_f": "¿Tus procesos todavía son manuales y te roban tiempo? En 100h aprenderás a diagnosticar, digitalizar y automatizar tu empresa con herramientas reales. Para equipos y responsables de área. ¿Hablamos?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "b47c6e63-e879-4211-b72a-bf7a79e14b70",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Empresas, equipos administrativos, responsables de área o departamento",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "79ee5b71-7688-4fad-8a38-906698667742",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Hoja de ruta digital de la empresa diseñada y presentada",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "6225ba23-8194-4f5a-a974-c3168bc327bf",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "14. Business Intelligence con Power BI y Excel Avanzado",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_prem"
+                  },
+                  "@msg_f": "Crea dashboards ejecutivos reales con Power BI. 80h para analistas, controladores y perfiles de gestión.",
+                  "@cta_f": "📈 Solicita información — marzo 2027",
+                  "@wa_f": "¿Necesitas analizar y visualizar datos de tu empresa de forma profesional? En 80h aprenderás Power BI y Excel avanzado para crear dashboards de dirección. ¿Te interesa?"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "159b6af6-5962-4211-b5ba-24b1215a15ff",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Público: Perfiles analíticos, control de gestión, administración avanzada",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "fd8fe7e8-a652-4265-8250-deca6430617a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Resultado: Dashboard ejecutivo funcional con datos reales",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "9cf977b8-5161-41a1-8497-d17424fe67cd",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "15. Liderazgo, Habilidades Directivas y Proyecto Final",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@nivel_f": {
+                    "type": "Select",
+                    "optionId": "fx_prem"
+                  },
+                  "@msg_f": "Desarrolla tus habilidades de liderazgo y dirección. 70h para profesionales que quieren ascender.",
+                  "@cta_f": "👔 Reserva tu plaza — mayo 2027",
+                  "@wa_f": "¿Listo para dar el salto a un puesto directivo o consolidar tu liderazgo? En 70h trabajarás comunicación, gestión de equipos y proyecto final profesional. ¿Quieres saber más?"
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@nivel_f": {
+            "id": "/attributes/@nivel_f",
+            "fieldPath": "/attributes/@nivel_f",
+            "rank": "z"
+          },
+          "/attributes/@cta_f": {
+            "id": "/attributes/@cta_f",
+            "fieldPath": "/attributes/@cta_f",
+            "rank": "zV"
+          },
+          "/attributes/@msg_f": {
+            "id": "/attributes/@msg_f",
+            "fieldPath": "/attributes/@msg_f",
+            "rank": "zk"
+          },
+          "/attributes/@wa_f": {
+            "id": "/attributes/@wa_f",
+            "fieldPath": "/attributes/@wa_f",
+            "rank": "zs"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@nivel_f": {
+            "id": "/attributes/@nivel_f",
+            "fieldPath": "/attributes/@nivel_f",
+            "rank": "z"
+          },
+          "/attributes/@cta_f": {
+            "id": "/attributes/@cta_f",
+            "fieldPath": "/attributes/@cta_f",
+            "rank": "zV"
+          },
+          "/attributes/@msg_f": {
+            "id": "/attributes/@msg_f",
+            "fieldPath": "/attributes/@msg_f",
+            "rank": "zk"
+          },
+          "/attributes/@wa_f": {
+            "id": "/attributes/@wa_f",
+            "fieldPath": "/attributes/@wa_f",
+            "rank": "zs"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@nivel_f": {
+            "id": "/attributes/@nivel_f",
+            "fieldPath": "/attributes/@nivel_f",
+            "rank": "z"
+          },
+          "/attributes/@cta_f": {
+            "id": "/attributes/@cta_f",
+            "fieldPath": "/attributes/@cta_f",
+            "rank": "zV"
+          },
+          "/attributes/@msg_f": {
+            "id": "/attributes/@msg_f",
+            "fieldPath": "/attributes/@msg_f",
+            "rank": "zk"
+          },
+          "/attributes/@wa_f": {
+            "id": "/attributes/@wa_f",
+            "fieldPath": "/attributes/@wa_f",
+            "rank": "zs"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@nivel_f": {
+            "id": "/attributes/@nivel_f",
+            "fieldPath": "/attributes/@nivel_f",
+            "rank": "z"
+          },
+          "/attributes/@cta_f": {
+            "id": "/attributes/@cta_f",
+            "fieldPath": "/attributes/@cta_f",
+            "rank": "zV"
+          },
+          "/attributes/@msg_f": {
+            "id": "/attributes/@msg_f",
+            "fieldPath": "/attributes/@msg_f",
+            "rank": "zk"
+          },
+          "/attributes/@wa_f": {
+            "id": "/attributes/@wa_f",
+            "fieldPath": "/attributes/@wa_f",
+            "rank": "zs"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@nivel_f": {
+            "id": "/attributes/@nivel_f",
+            "fieldPath": "/attributes/@nivel_f",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@cta_f": {
+            "id": "/attributes/@cta_f",
+            "fieldPath": "/attributes/@cta_f",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@msg_f": {
+            "id": "/attributes/@msg_f",
+            "fieldPath": "/attributes/@msg_f",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@wa_f": {
+            "id": "/attributes/@wa_f",
+            "fieldPath": "/attributes/@wa_f",
+            "rank": "zs",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@nivel_f": {
+            "id": "/attributes/@nivel_f",
+            "fieldPath": "/attributes/@nivel_f",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@cta_f": {
+            "id": "/attributes/@cta_f",
+            "fieldPath": "/attributes/@cta_f",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@msg_f": {
+            "id": "/attributes/@msg_f",
+            "fieldPath": "/attributes/@msg_f",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@wa_f": {
+            "id": "/attributes/@wa_f",
+            "fieldPath": "/attributes/@wa_f",
+            "rank": "zs",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@nivel_f": {
+        "type": "Select",
+        "displayName": "Nivel",
+        "options": {
+          "fx_express": {
+            "id": "fx_express",
+            "name": "Express",
+            "color": "#3B82F6",
+            "rank": "0"
+          },
+          "fx_inter": {
+            "id": "fx_inter",
+            "name": "Intermedio",
+            "color": "#F59E0B",
+            "rank": "1"
+          },
+          "fx_prem": {
+            "id": "fx_prem",
+            "name": "Premium",
+            "color": "#8B5CF6",
+            "rank": "2"
+          }
+        }
+      },
+      "@cta_f": {
+        "type": "string",
+        "displayName": "CTA recomendado"
+      },
+      "@msg_f": {
+        "type": "string",
+        "displayName": "Mensaje promocional"
+      },
+      "@wa_f": {
+        "type": "string",
+        "displayName": "WhatsApp comercial"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "⚡"
+    }
+  }
+}

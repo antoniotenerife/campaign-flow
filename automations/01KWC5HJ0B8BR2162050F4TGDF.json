@@ -1,0 +1,75 @@
+{
+  "version": "2",
+  "flowTitle": "🔔 Seguimiento de Interesados – Impulsa Canarias",
+  "trigger": {
+    "valid": true,
+    "displayName": "Email de interesado recibido",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "1.0.0",
+      "triggerName": "mailhook",
+      "input": {}
+    }
+  },
+  "actions": [
+    {
+      "name": "37ad7abf-ea6f-4194-8fd6-eb500f369943",
+      "valid": true,
+      "displayName": "Analizar interés con IA",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "1.0.0",
+        "actionName": "ai.ask",
+        "input": {
+          "input": "Asunto: {{ trigger[\"subject\"] }} | De: {{ trigger[\"from\"] }} | Mensaje: {{ trigger[\"body\"] }}",
+          "prompt": "Eres asistente de Impulsa Canarias, una academia de formación. Analiza el siguiente email de un interesado y extrae: 1) Nombre del remitente (si aparece), 2) Curso o área de interés mencionada, 3) Nivel de urgencia (alto/medio/bajo), 4) Pregunta principal. Responde en formato JSON con los campos: nombre, curso_interes, urgencia, pregunta_principal."
+        }
+      }
+    },
+    {
+      "name": "a1cb0783-7156-4420-8956-3d6c19709631",
+      "valid": false,
+      "displayName": "Registrar interesado como tarea",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "content": "Interesado: {{ trigger[\"from\"] }} | Asunto: {{ trigger[\"subject\"] }} | Análisis: {{ 37ad7abf-ea6f-4194-8fd6-eb500f369943[\"result\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "m1bn4Mzxuss8ShXS"
+          }
+        }
+      }
+    },
+    {
+      "name": "7dea2e67-d6c7-480f-bb74-ac55caf20e6d",
+      "valid": true,
+      "displayName": "Notificar al equipo por email",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "notify.email",
+        "input": {
+          "body": "Nuevo interesado recibido en Impulsa Canarias.\n\nDe: {{ trigger[\"from\"] }}\nAsunto: {{ trigger[\"subject\"] }}\n\nAnálisis IA:\n{{ 37ad7abf-ea6f-4194-8fd6-eb500f369943[\"result\"] }}\n\nResponde cuanto antes para confirmar plaza.",
+          "subject": "🔔 Nuevo interesado: {{ trigger[\"subject\"] }}",
+          "recipientEmail": "info@impulsacanarias.com"
+        }
+      }
+    }
+  ],
+  "variables": {
+    "m1bn4Mzxuss8ShXS": {
+      "id": "m1bn4Mzxuss8ShXS",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

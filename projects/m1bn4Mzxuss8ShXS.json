@@ -1,0 +1,1669 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a6864f2f-5673-4fd6-a980-93bc361a6a02",
+        "text": {
+          "ops": [
+            {
+              "insert": "📋 Tareas de Campaña – Impulsa Canarias 2026–2027"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "6454766b-0d81-4f0b-82b6-bffe8b5e7b9f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "FASE 1 — Preparación de la campaña",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c1c6de15-a487-4f55-8f18-1a339b9cb9c5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Revisar el catálogo de los 15 cursos y confirmar información",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase1"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3ec94252-59c8-4489-8ca6-2fa6556f7c20",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Agrupar cursos por nivel: Express, Intermedio, Premium",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase1"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f535f620-e3ad-4904-b53f-b2dad0f5b6b5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Confirmar fechas, duración y modalidad (presencial/online)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase1"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c4e837fe-78b5-4ea2-a233-6b34124c768a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Definir precios y condiciones de inscripción por curso",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase1"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "23d359c1-10ee-45d8-b852-5a69a1602bcc",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Definir público objetivo específico de cada curso",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase1"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7a79fea6-fa8e-4103-bec0-9cc8871dc002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear mensaje principal de campaña: eslogan y propuesta de valor",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase1"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33bee997-52b0-435c-b1d6-ccab59670d50",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear tabla resumen: curso, fecha, perfil, precio, resultado esperado",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase1"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3f9573ae-2c85-406c-8e76-0c2908583248",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Confirmar disponibilidad de aulas y docentes por período",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase1"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "a99e3c47-47ad-4a3f-9b80-934855d3653f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "FASE 2 — Materiales de comunicación",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "0c5ccfad-b9d3-40c3-b80f-7bd01dea3d37",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear cartel general de la campaña anual (Canva)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase2"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "40982fb4-aa6e-471f-8490-b56e1bf73fe8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear ficha individual por cada uno de los 15 cursos (PDF)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase2"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d1e1b89d-a5cc-461b-96e8-ec4f5089a066",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear 3 posts por curso para Instagram y Facebook",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase2"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "20556e64-3242-4457-ac4e-0f10af722c4a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear historia/story para cada lanzamiento de curso",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase2"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e4df6d0d-6a64-445d-9f7f-90195f50898e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear reel corto (30 seg) de presentación de la academia",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase2"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5636b41c-ddcf-4ada-8c2f-b4d968595cea",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear mensajes de WhatsApp para difusión inicial (3 versiones)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase2"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7af82f89-5b82-417b-af3c-91b36e115887",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear email de captación (asunto + cuerpo + CTA)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase2"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9ce05c41-c114-4f2a-b50c-6dc3f746457a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear formulario de solicitud de información (Google Forms o Typeform)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase2"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3393d958-1621-4f6c-bf4f-53b9a1d5748f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Crear presentación breve para empresas (5 diapositivas)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase2"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "658c09a5-a47f-4603-8679-6c7704e19394",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Actualizar Google Business Profile con cursos y horarios",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase2"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "2c727967-4735-483b-b2fd-ccbab876e140",
+            "text": {
+              "ops": [
+                {
+                  "insert": "FASE 3 — Lanzamiento",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "06793c5b-b266-495d-b8ab-6b8c864594f6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Publicar campaña inicial en redes sociales (post + story)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase3"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "dd3a9a5d-7b46-4fd9-8cf5-d02c19e93d81",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Enviar WhatsApp masivo a lista de contactos interesados",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase3"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ba7c0a4b-b165-4d8b-af6b-204a53cbe1a5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Publicar curso gancho (IA y Ofimática) como primer lanzamiento",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase3"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9733706c-bbce-4fcf-b633-f5a2f19cb729",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Activar formulario de inscripción y compartir enlace",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase3"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4b276bfb-3c3d-4a83-82f5-6d6f13fb1cad",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Contactar con empresas locales con presentación de cursos para empresas",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase3"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "14dc9b70-fa0e-48e6-bfd5-436cec22d602",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Distribuir cartelería en comercios, centros y espacios locales",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase3"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b43e4a19-9c3a-454e-ba73-f41a80418a8f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "FASE 4 — Seguimiento comercial",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ca0046b0-60fd-448f-b58d-70d315b01bd8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Revisar formularios recibidos y clasificar por curso de interés",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@fase01": {
+                    "type": "Select",
+                    "optionId": "fase4"
+                  },
+                  "@estado1": {
+                    "type": "Select",
+                    "optionId": "pendiente"
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@fase01": {
+            "id": "/attributes/@fase01",
+            "fieldPath": "/attributes/@fase01",
+            "rank": "z"
+          },
+          "/attributes/@estado1": {
+            "id": "/attributes/@estado1",
+            "fieldPath": "/attributes/@estado1",
+            "rank": "zV"
+          },
+          "/attributes/@respon1": {
+            "id": "/attributes/@respon1",
+            "fieldPath": "/attributes/@respon1",
+            "rank": "zk"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@fase01": {
+            "id": "/attributes/@fase01",
+            "fieldPath": "/attributes/@fase01",
+            "rank": "z"
+          },
+          "/attributes/@estado1": {
+            "id": "/attributes/@estado1",
+            "fieldPath": "/attributes/@estado1",
+            "rank": "zV"
+          },
+          "/attributes/@respon1": {
+            "id": "/attributes/@respon1",
+            "fieldPath": "/attributes/@respon1",
+            "rank": "zk"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@fase01": {
+            "id": "/attributes/@fase01",
+            "fieldPath": "/attributes/@fase01",
+            "rank": "z"
+          },
+          "/attributes/@estado1": {
+            "id": "/attributes/@estado1",
+            "fieldPath": "/attributes/@estado1",
+            "rank": "zV"
+          },
+          "/attributes/@respon1": {
+            "id": "/attributes/@respon1",
+            "fieldPath": "/attributes/@respon1",
+            "rank": "zk"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@fase01": {
+            "id": "/attributes/@fase01",
+            "fieldPath": "/attributes/@fase01",
+            "rank": "z"
+          },
+          "/attributes/@estado1": {
+            "id": "/attributes/@estado1",
+            "fieldPath": "/attributes/@estado1",
+            "rank": "zV"
+          },
+          "/attributes/@respon1": {
+            "id": "/attributes/@respon1",
+            "fieldPath": "/attributes/@respon1",
+            "rank": "zk"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@fase01": {
+            "id": "/attributes/@fase01",
+            "fieldPath": "/attributes/@fase01",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@estado1": {
+            "id": "/attributes/@estado1",
+            "fieldPath": "/attributes/@estado1",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@respon1": {
+            "id": "/attributes/@respon1",
+            "fieldPath": "/attributes/@respon1",
+            "rank": "zk",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@fase01": {
+            "id": "/attributes/@fase01",
+            "fieldPath": "/attributes/@fase01",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@estado1": {
+            "id": "/attributes/@estado1",
+            "fieldPath": "/attributes/@estado1",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@respon1": {
+            "id": "/attributes/@respon1",
+            "fieldPath": "/attributes/@respon1",
+            "rank": "zk",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@fase01": {
+        "type": "Select",
+        "displayName": "Fase",
+        "options": {
+          "fase1": {
+            "id": "fase1",
+            "name": "📋 Preparación",
+            "color": "#3B82F6",
+            "rank": "0"
+          },
+          "fase2": {
+            "id": "fase2",
+            "name": "🎨 Materiales",
+            "color": "#F59E0B",
+            "rank": "1"
+          },
+          "fase3": {
+            "id": "fase3",
+            "name": "🚀 Lanzamiento",
+            "color": "#10B981",
+            "rank": "2"
+          },
+          "fase4": {
+            "id": "fase4",
+            "name": "📞 Seguimiento",
+            "color": "#EF4444",
+            "rank": "3"
+          },
+          "fase5": {
+            "id": "fase5",
+            "name": "📊 Evaluación",
+            "color": "#8B5CF6",
+            "rank": "4"
+          }
+        }
+      },
+      "@estado1": {
+        "type": "Select",
+        "displayName": "Estado",
+        "options": {
+          "pendiente": {
+            "id": "pendiente",
+            "name": "⏳ Pendiente",
+            "color": "#6B7280",
+            "rank": "0"
+          },
+          "en_curso": {
+            "id": "en_curso",
+            "name": "🔄 En curso",
+            "color": "#3B82F6",
+            "rank": "1"
+          },
+          "hecho": {
+            "id": "hecho",
+            "name": "✅ Hecho",
+            "color": "#10B981",
+            "rank": "2"
+          }
+        }
+      },
+      "@respon1": {
+        "type": "string",
+        "displayName": "Responsable"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "board",
+    "avatar": {
+      "type": "emoji",
+      "value": "☑️"
+    }
+  }
+}
